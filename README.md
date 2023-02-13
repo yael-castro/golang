@@ -1,2 +1,2 @@
-# golang
-This repository contains different exercises and scenarios to learn more about Golang topics and syntax in depth.
+# Golang in depth
+This repository contains a compilation of different exercises and scenarios to learn more about Golang syntax and topics in depth.
